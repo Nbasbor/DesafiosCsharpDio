@@ -53,3 +53,18 @@ A entrada contém valores inteiros.
 <h4 align="center">Saída</h4>
 A saída deve conter uma das mensagens conforme descrito acima.
 </p>
+
+
+
+<h3 align="center">Desafio 1 **Múltiplos"</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si.
+
+<h4 align="center">Entrada</h4>
+A entrada contém valores inteiros.
+
+<h4 align="center">Saída</h4>
+A saída deve conter uma das mensagens conforme descrito acima.
+</p>
