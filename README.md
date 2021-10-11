@@ -5,7 +5,7 @@
 
 <h4 align="center">Nível 1</h4>
 
-<h3 align="center">Desafio 1 **Soma Simples"</h3>
+<h3 align="center">Desafio 1 **Soma Simples**</h3>
 
 <p align="center">
 <h4 align="center">Desafio Proposto</h4>
@@ -21,7 +21,7 @@ Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço e
 
 
 
-<h3 align="center">Desafio 2 **DDD"</h3>
+<h3 align="center">Desafio 2 **DDD**</h3>
 
 <p align="center">
 <h4 align="center">Desafio Proposto</h4>
@@ -41,7 +41,7 @@ Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD
 
 <h4 align="center">Nível 2</h4>
 
-<h3 align="center">Desafio 1 **Múltiplos"</h3>
+<h3 align="center">Desafio 1 **Múltiplos**</h3>
 
 <p align="center">
 <h4 align="center">Desafio Proposto</h4>
@@ -56,22 +56,7 @@ A saída deve conter uma das mensagens conforme descrito acima.
 
 
 
-<h3 align="center">Desafio 1 **Múltiplos"</h3>
-
-<p align="center">
-<h4 align="center">Desafio Proposto</h4>
-Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si.
-
-<h4 align="center">Entrada</h4>
-A entrada contém valores inteiros.
-
-<h4 align="center">Saída</h4>
-A saída deve conter uma das mensagens conforme descrito acima.
-</p>
-
-
-
-<h3 align="center">Desafio 2 **Números Ímpares"</h3>
+<h3 align="center">Desafio 2 **Números Ímpares**</h3>
 
 <p align="center">
 <h4 align="center">Desafio Proposto</h4>
@@ -82,4 +67,19 @@ O arquivo de entrada contém 1 valor inteiro qualquer.
 
 <h4 align="center">Saída</h4>
 Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
+</p>
+
+
+
+<h3 align="center">Desafio 3 **Conversão de tempo**</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Você terá o desafio de ler um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma loja, e informe-o expresso no formato horas:minutos:segundos.
+
+<h4 align="center">Entrada</h4>
+O arquivo de entrada contém um valor inteiro N.
+
+<h4 align="center">Saída</h4>
+Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
 </p>
