@@ -158,3 +158,27 @@ A entrada contém vários valores reais, positivos ou negativos. O programa deve
 Se uma nota inválida  for lida, deve ser impressa a mensagem "nota invalida".
 Quando duas notas válidas forem lidas, deve ser impressa a mensagem "media = " seguido do valor do cálculo. O valor deve ser apresentado com duas casas após o ponto decimal.
 </p>
+
+
+
+<h2 align="center">Nível 3</h2>
+
+<h3 align="center">Desafio 4 **Tipo de Triângulos**</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente, de modo que o lado A representa o maior dos 3 lados. A seguir, determine o tipo de triângulo que estes três lados formam, com base nos seguintes casos, sempre escrevendo uma mensagem adequada:
+
+- se A ≥ B+C, apresente a mensagem: NAO FORMA TRIANGULO
+- se A2 = B2 + C2, apresente a mensagem: TRIANGULO RETANGULO
+- se A2 > B2 + C2, apresente a mensagem: TRIANGULO OBTUSANGULO
+- se A2 < B2 + C2, apresente a mensagem: TRIANGULO ACUTANGULO
+- se os três lados forem iguais, apresente a mensagem: TRIANGULO EQUILATERO
+- se apenas dois dos lados forem iguais, apresente a mensagem: TRIANGULO ISOSCELES
+
+<h4 align="center">Entrada</h4>
+A entrada contem três valores de ponto flutuante de dupla precisão A (0 < A) , B (0 < B) e C (0 < C).
+
+<h4 align="center">Saída</h4>
+Imprima todas as classificações do triângulo especificado na entrada.
+</p>
