@@ -161,7 +161,6 @@ Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que aba
 
 
 
-<h2>Nível 3</h2>
 
 <h3>Desafio 2 O Maior</h3>
 
@@ -183,7 +182,6 @@ Imprima o maior dos três valores seguido pela mensagem " eh o maior".
 
 
 
-<h2>Nível 3</h2>
 
 <h3>Desafio 3 Validação de Nota</h3>
 
@@ -206,7 +204,6 @@ Quando duas notas válidas forem lidas, deve ser impressa a mensagem "media = " 
 
 
 
-<h2>Nível 3</h2>
 
 <h3>Desafio 4 Tipo de Triângulos</h3>
 
@@ -235,7 +232,6 @@ Imprima todas as classificações do triângulo especificado na entrada.
 
 
 
-<h2>Nível 3</h2>
 
 <h3>Desafio 5 Sequência de lógica 2</h3>
 
@@ -257,7 +253,6 @@ Cada sequência deve ser impressa em uma linha apenas, com 1 espaço em branco e
 
 
 
-<h2>Nível 3</h2>
 
 <h3>Desafio 6 Sequência de lógica 2</h3>
 
