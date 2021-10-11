@@ -182,3 +182,20 @@ A entrada contem três valores de ponto flutuante de dupla precisão A (0 < A) ,
 <h4 align="center">Saída</h4>
 Imprima todas as classificações do triângulo especificado na entrada.
 </p>
+
+
+
+<h2 align="center">Nível 3</h2>
+
+<h3 align="center">Desafio 4 **Sequência de lógica 2**</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Você terá desafio de escrever um programa que leia dois valores X e Y. A seguir, mostre uma sequência de 1 até Y, passando para a próxima linha a cada X números.
+
+<h4 align="center">Entrada</h4>
+O arquivo de entrada contém dois valores inteiros, (1 < X < 20) e (X < Y < 100000).
+
+<h4 align="center">Saída</h4>
+Cada sequência deve ser impressa em uma linha apenas, com 1 espaço em branco entre cada número, conforme exemplo abaixo. Não deve haver espaço em branco após o último valor da linha.
+</p>
