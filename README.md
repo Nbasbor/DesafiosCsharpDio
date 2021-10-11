@@ -105,7 +105,6 @@ Em seguida haverá dois inteiros A e B, indicando quantos minutos são necessár
 
 <h4 align="center">Saída</h4>
 Imprima uma linha, contendo a frase "Farei hoje!" caso seja possível fabricar os dois presentes antes do final do expediente, ou "Deixa para amanha!" caso contrário.
-
 </p>
 
 
@@ -123,4 +122,21 @@ A entrada contém apenas valores inteiros e positivos.
 
 <h4 align="center">Saída</h4>
 Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
+</p>
+
+
+
+<h2 align="center">Nível 3</h2>
+
+<h3 align="center">Desafio 2 **O Maior**</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Desenvolva um programa capaz de ler três valores e apresentar o maior deles e adicionar a mensagem “ eh o maior”. 
+
+<h4 align="center">Entrada</h4>
+O arquivo de entrada contém três valores inteiros.
+
+<h4 align="center">Saída</h4>
+Imprima o maior dos três valores seguido pela mensagem " eh o maior".
 </p>
