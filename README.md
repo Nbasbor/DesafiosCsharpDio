@@ -187,7 +187,7 @@ Imprima todas as classificações do triângulo especificado na entrada.
 
 <h2 align="center">Nível 3</h2>
 
-<h3 align="center">Desafio 4 **Sequência de lógica 2**</h3>
+<h3 align="center">Desafio 5 **Sequência de lógica 2**</h3>
 
 <p align="center">
 <h4 align="center">Desafio Proposto</h4>
@@ -198,4 +198,28 @@ O arquivo de entrada contém dois valores inteiros, (1 < X < 20) e (X < Y < 1000
 
 <h4 align="center">Saída</h4>
 Cada sequência deve ser impressa em uma linha apenas, com 1 espaço em branco entre cada número, conforme exemplo abaixo. Não deve haver espaço em branco após o último valor da linha.
+</p>
+
+
+
+<h2 align="center">Nível 3</h2>
+
+<h3 align="center">Desafio 6 **Sequência de lógica 2**</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
+Se o ponto estiver na origem, escreva a mensagem “Origem”.
+
+Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
+Q1( X, Y)
+Q2(-X, Y)
+Q3(-X,-Y)
+Q4( X,-Y)
+
+<h4 align="center">Entrada</h4>
+A entrada contem as coordenadas de um ponto.
+
+<h4 align="center">Saída</h4>
+A saída deve apresentar o quadrante em que o ponto se encontra.
 </p>
