@@ -17,7 +17,7 @@ namespace DesafiosDio2Nivel1
                 case 61:
                     Console.WriteLine("Brasilia");
                     break;
-                case 71:                             //complete os DDD's corretamente
+                case 71:                             
                     Console.WriteLine("Salvador");
                     break;
                 case 11:

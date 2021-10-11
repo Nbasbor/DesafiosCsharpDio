@@ -10,11 +10,11 @@ namespace DesafiosDioNivel1
     {
         static void Main(string[] args)
         {
-            //Declare Variables
+            //Leitura Das Variáveis
             int A = Convert.ToInt32(Console.ReadLine());
             int B = Convert.ToInt32(Console.ReadLine());
 
-            //Insira as variaveis de acordo com o solicitado
+            
             int SOMA = A + B;
 
             //Print

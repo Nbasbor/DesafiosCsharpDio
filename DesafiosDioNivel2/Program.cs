@@ -10,7 +10,7 @@ namespace DesafiosDioNivel2
     {
         static void Main(string[] args)
         {
-            string[] valores = Console.ReadLine().Split(' ');
+            string[] valores = Console.ReadLine().Split(' '); //lê os valores e coloca-os separados por " "
             int A = int.Parse(valores[0]);
             int B = int.Parse(valores[1]);
 

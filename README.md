@@ -68,3 +68,18 @@ A entrada contém valores inteiros.
 <h4 align="center">Saída</h4>
 A saída deve conter uma das mensagens conforme descrito acima.
 </p>
+
+
+
+<h3 align="center">Desafio 2 **Números Ímpares"</h3>
+
+<p align="center">
+<h4 align="center">Desafio Proposto</h4>
+Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
+
+<h4 align="center">Entrada</h4>
+O arquivo de entrada contém 1 valor inteiro qualquer.
+
+<h4 align="center">Saída</h4>
+Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
+</p>
