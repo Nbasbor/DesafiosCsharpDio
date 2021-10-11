@@ -3,7 +3,7 @@
 <h1 align="center">**Desafios da Plataforma da Digital Innovation One Solucionados**</h1>
 
 
-<h4 align="center">Nível 1</h4>
+<h2 align="center">Nível 1</h2>
 
 <h3 align="center">Desafio 1 **Soma Simples**</h3>
 
@@ -39,7 +39,7 @@ Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD
 
 
 
-<h4 align="center">Nível 2</h4>
+<h2 align="center">Nível 2</h2>
 
 <h3 align="center">Desafio 1 **Múltiplos**</h3>
 
@@ -107,3 +107,6 @@ Em seguida haverá dois inteiros A e B, indicando quantos minutos são necessár
 Imprima uma linha, contendo a frase "Farei hoje!" caso seja possível fabricar os dois presentes antes do final do expediente, ou "Deixa para amanha!" caso contrário.
 
 </p>
+
+
+
