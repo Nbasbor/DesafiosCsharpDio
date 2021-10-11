@@ -206,8 +206,9 @@ Cada sequência deve ser impressa em uma linha apenas, com 1 espaço em branco e
 
 <h3 align="center">Desafio 6 **Sequência de lógica 2**</h3>
 
-<p align="center">
+
 <h4 align="center">Desafio Proposto</h4>
+<p align="center">
 Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
 Se o ponto estiver na origem, escreva a mensagem “Origem”.
 
@@ -216,10 +217,15 @@ Q1( X, Y)
 Q2(-X, Y)
 Q3(-X,-Y)
 Q4( X,-Y)
+</p>
 
 <h4 align="center">Entrada</h4>
+<p align="center">
 A entrada contem as coordenadas de um ponto.
+</p>
 
 <h4 align="center">Saída</h4>
+<p align="center">
 A saída deve apresentar o quadrante em que o ponto se encontra.
+</p>
 </p>
